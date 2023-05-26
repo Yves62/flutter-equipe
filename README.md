@@ -1,6 +1,9 @@
 # clone_equipe
 
-A new Flutter project.
+A first Flutter project.
+
+First project in flutter. Try to build the Equipe website
+
 
 ## Getting Started
 
